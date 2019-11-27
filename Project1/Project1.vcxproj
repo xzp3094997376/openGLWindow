@@ -132,6 +132,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DrawTriangle.cpp" />
     <ClCompile Include="H:\glfw-3.3\Lib\glad.c" />
     <ClCompile Include="openGLTest.cpp" />
   </ItemGroup>

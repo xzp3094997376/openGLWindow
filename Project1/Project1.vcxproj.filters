@@ -21,6 +21,9 @@
     <ClCompile Include="openGLTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DrawTriangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyGL.h">
